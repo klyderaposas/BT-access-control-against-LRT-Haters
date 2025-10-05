@@ -1,0 +1,12 @@
+<form action="your actions here">
+<input type="password"
+             id="LRT1"
+              required 
+               pattern="LRT1">
+</form>
+<h1>
+BT Password firewall 
+</h1>
+<h2>
+which lrt line is balintawak
+</h2>
